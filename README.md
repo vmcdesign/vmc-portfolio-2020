@@ -7,4 +7,8 @@ Personal portfolio site for Vanessa Coles (VMC Design).  Built using Gatsby and 
 - Gatsby
 - Emotion (Styled Components)
 
+![Alt text](/screenshots/view-desktop.png?raw=true "Optional Title")
+
 **Note:** For demonstration purposes only.  Most links are not functional.
+
+
