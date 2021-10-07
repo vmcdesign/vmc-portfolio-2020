@@ -1,0 +1,138 @@
+{
+  "projects": {
+    "apps": [
+      {
+        "title": "Offside",
+        "tags": ["JavaScript"],
+        "completed": true,
+        "url": "/",
+        "description": 
+          "Simple off-canvas navigation plugin built using nothing but Vanilla JavaScript."
+      },
+      {
+        "title": "Paycheck Calculator",
+        "tags": ["React"],
+        "completed": true,
+        "url": "/",
+        "description": 
+          "Calculates income earned in a given pay period based on hourly wage."
+      },
+      {
+        "title": "Pixels - Convert Px to Em to Rem",
+        "tags": ["React"],
+        "completed": true,
+        "url": "/",
+        "description":
+          "Allows users to convert px to em or rem units by specifying a base px size."
+      },
+      {
+        "title": "Golden - A Typographic Scale",
+        "tags": ["React"],
+        "completed": true,
+        "url": "/",
+        "description": 
+          "Set a typographic scale based on popular ratios, like the golden ratio."
+      },
+      {
+        "title": "Farmer's Market Map",
+        "tags": ["JavaScript"],
+        "completed": true,
+        "url": "/",
+        "description": 
+          "Map containing information about Farmer's Markets in San Diego using Open Maps API."
+      },
+      {
+        "title": "Stardew Farms",
+        "tags": ["React", "Redux", "REST API"],
+        "completed": true,
+        "url": "/",
+        "description": 
+          "Displays hot and new posts from r/StardewValleyFarms with the added ability to save your favorites."
+      },
+      {
+        "title": "Unsplash Clone",
+        "tags": ["React", "REST API"],
+        "completed": true,
+        "url": "/",
+        "description": 
+          "Map containing information about Farmer's Markets in San Diego using Open Maps API."
+      },
+      {
+        "title": "Vanessa Coles - Site",
+        "tags": ["React", "Gatsby", "Emotion"],
+        "completed": true,
+        "url": "/",
+        "description":
+          "Source code for the site you see here!"
+      }
+    ],
+    "designs": [
+      {
+        "title": "Personal Portfolio",
+        "tags": ["Adobe XD"],
+        "completed": true,
+        "url": "/",
+        "description": 
+          "Tentative portfolio design to be written in React."
+      },
+      {
+        "title": "Genki Ramen",
+        "tags": ["Figma"],
+        "completed": true,
+        "url": "/",
+        "description": 
+          "Landing page for a fictional restaurant, to be written in React."
+      },
+      {
+        "title": "Oneness Love",
+        "tags": ["Adobe XD"],
+        "completed": true,
+        "url": "/",
+        "description": 
+          "Redesign of a client site launched in 2018 with an improved look and feel."
+      },
+      {
+        "title": "Q Agency",
+        "tags": ["Figma"],
+        "completed": true,
+        "url": "/",
+        "description": 
+          "Web design for Q Agency, a business and real estate based company that hosts seminars along the west coast."
+      },
+      {
+        "title": "Mizu WordPress Theme",
+        "tags": ["Figma"],
+        "completed": true,
+        "url": "/",
+        "description": 
+          "Custom WordPress Theme design based on Mizu CSS.  Official theme release coming soon."
+      },
+      {
+        "title": "Wells Fargo App Redesign",
+        "tags": ["Figma"],
+        "completed": true,
+        "url": "/",
+        "description": 
+          "Wells Fargo desktop and mobile app redesign."
+      },
+      {
+        "title": "Pokedex App",
+        "tags": ["Figma"],
+        "completed": true,
+        "url": "/",
+        "description": 
+          "Pokedex app design for mobile devices."
+      }
+    ],
+    "misc": [
+      {
+        "title": "Mizu SASS",
+        "tags": ["SASS", "Gulp"],
+        "completed": false,
+        "url": "/",
+        "description": 
+          "A modern SASS framework designed and built from the ground up for use in your next project."
+      }
+    ]
+  }  
+}
