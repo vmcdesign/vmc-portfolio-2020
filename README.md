@@ -1,6 +1,6 @@
 # Vanessa Coles - Site (2020)
 
-Personal portfolio site for Vanessa Coles (VMC Design).  Built using Gatsby and React.
+Personal portfolio site for Vanessa Coles (VMC Design).  Built using Gatsby and React.  Link to live site coming soon.
 
 ### Technologies Used
 - React
